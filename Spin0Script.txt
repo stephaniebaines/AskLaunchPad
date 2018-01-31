@@ -1,0 +1,4 @@
+import model mono_spinzero_beta_Lag
+generate a a > mm+ mm-
+output Pre5
+
